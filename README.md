@@ -1,4 +1,5 @@
-<img src=https://i.redd.it/n5asj8qa4qcc1.gif width="1000">
+<img src="https://i.redd.it/n5asj8qa4qcc1.gif" width="1100" height="300">
+
 
 ## ¡Hola! Soy marcmele184
 
