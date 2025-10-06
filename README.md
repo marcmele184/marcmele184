@@ -14,6 +14,7 @@ Soy un estudiante de grado medio de sistemas microinformáticos y redes y estoy 
         <li>Nivel básico en Python</li>
         <li>Pasión por los ordenadores</li>
         <li>Fanático de los videojuegos</li>
+        <li>En constante aprendizaje</li>
       </ol>
     </td>
     <td>
