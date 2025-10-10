@@ -1,7 +1,7 @@
 <img src="https://i.redd.it/n5asj8qa4qcc1.gif" width="1100" height="300">
 
 
-## ¡Hola! Soy marcmele184
+## ¡Hola! Soy Marc Melendo
 
 Soy un estudiante de grado medio de sistemas microinformáticos y redes y estoy en un proceso de aprendizaje.
 
